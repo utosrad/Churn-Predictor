@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (download from Kaggle, see README)
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+*.csv
+
+# Saved models
+*.keras
+*.h5
+
+# Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
